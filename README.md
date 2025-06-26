@@ -58,6 +58,10 @@ Additionally, before reading data from the user, the program uses getchar() to c
 Conclusion
 This simple C program demonstrates essential file handling operations and user interaction. By using functions like fopen(), fclose(), fgets(), and fputs(), the program allows the user to create, write, append, and read files, while also handling common errors such as file access failure. This type of program is fundamental for anyone learning C, as it teaches the basics of file I/O and error management in an interactive, user-friendly way. The use of functions to encapsulate different file operations also promotes code modularity and reusability.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5cc8a88e-a09a-40e4-93a6-8a07170a7194)
+
 
 
 
